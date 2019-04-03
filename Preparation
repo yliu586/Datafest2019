@@ -1,2 +1,5 @@
 K-Means Clustering: used when having ungrouped data
-Helpful resources: https://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/
+Helpful resources:
+KM clustering in R introduction: https://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/
+KM clustering code in R: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/kmeans.html
+KM Clustering visualization in R: https://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/
